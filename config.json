@@ -1,0 +1,20 @@
+{
+    "mysql":{
+        "host":"localhost",
+        "user":"root",
+        "passwd":"",
+        "db":"webscrapper"
+    },
+    "path":"C:/Rebrickable_Pictures_temp",
+	"outputLocation":"C:/Exports/Export_",
+	"login":{
+		"username":"test_23432423",
+		"pw":"taseb31948@drluotan.com"
+	},
+	"proxy":{
+		"setProxy":"False",
+		"http_proxy":"http://uzu047.buhler-ltd.com:3128",
+		"https_proxy":"https://uzu047.buhler-ltd.com:3128"
+	},
+	"chromedriver":"C:/chromedriver.exe"
+}
